@@ -227,5 +227,5 @@ pytest tests/
 
 ## License
 
-MIT License
+GNU GPLv3
 
