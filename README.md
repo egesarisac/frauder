@@ -1,4 +1,4 @@
-# Fraud Detection Service
+# Frauder: Real-Time Fraud Detection Service
 
 This is a Python service for real-time fraud detection that processes transactions from Kafka and applies configurable rules to detect fraudulent activities. When a suspicious transaction is identified, the service sends alerts to a configurable Kafka topic.
 
